@@ -15,7 +15,7 @@ Cybersecurity student starting CS undergrad in August 2026. Building fundamental
 
 ## What I'm Currently Doing
 
-- Learning **C** — writing small programs daily to build low-level understanding
+- Learning **C** and **Python** — writing small programs daily to build low-level understanding
 - Reading **Computer Networking A Top-Down Approach by Kurose & Ross** (first 4–5 chapters) for networking fundamentals
 - Maintaining and expanding writeups as I work through more challenges
 
