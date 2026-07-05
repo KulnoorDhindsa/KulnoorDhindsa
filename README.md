@@ -29,7 +29,7 @@ Cybersecurity student starting CS undergrad in August 2026. Building fundamental
 
 ---
 
-## Repositories
+## Repositories (Public)
 
 | Repo | What it is |
 |------|------------|
