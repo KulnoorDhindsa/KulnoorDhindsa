@@ -25,7 +25,8 @@ Cybersecurity student starting CS undergrad in August 2026. Building fundamental
 
 - **TryHackMe Pre-Security course** — structured path to solidify fundamentals before college
 - Getting **Python basics** down with hands-on scripts before semester 1 starts
-- Starting CS undergrad — **August 2026**
+- Starting CS undergrad - **August 2026**
+- **picoCTF** (now **CyLab Security Academy**) beginner course
 
 ---
 
