@@ -1,7 +1,7 @@
 # Kulnoor Dhindsa
 👋
 
-Cybersecurity student starting CS undergrad in August 2026. Building fundamentals the hard way — hands-on before certifications, depth before breadth.
+Cybersecurity student starting Computer Science - CySec undergrad in August 2026. Building fundamentals the hard way — hands-on before certifications, depth before breadth.
 
 ---
 
@@ -18,14 +18,15 @@ Cybersecurity student starting CS undergrad in August 2026. Building fundamental
 - Learning **C** and **Python** — writing small programs daily to build low-level understanding
 - Reading **Computer Networking A Top-Down Approach by Kurose & Ross** (first 4–5 chapters) for networking fundamentals
 - Maintaining and expanding writeups as I work through more challenges
+- Doing **OverTheWire Natas levels 0-33** - writing full writeups, failed attempts, and correct methodologies for the same in `ctf-writeups`
 
 ---
 
 ## What's Next
 
 - **TryHackMe Pre-Security course** — structured path to solidify fundamentals before college
-- Getting **Python basics** down with hands-on scripts before semester 1 starts
-- Starting CS undergrad - **August 2026**
+- Finishing newtork security and other books on these topics
+- Starting CS undergrad coursework - **August 2026**
 - **picoCTF** (now **CyLab Security Academy**) beginner course
 
 ---
