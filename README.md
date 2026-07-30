@@ -35,9 +35,15 @@ Cybersecurity student starting Computer Science - CySec undergrad in August 2026
 
 | Repo | What it is |
 |------|------------|
-| [ctf-writeups](https://github.com/KulnoorDhindsa/ctf-writeups) | CTF challenge writeups — thought process, what failed, and what I learned. Currently has full OverTheWire Bandit (0–34). |
 | [homelab-notes](https://github.com/KulnoorDhindsa/homelab-notes) | Documentation of my cybersecurity home lab — VM setup, network topology, hands-on experiments. |
-| [Learning-notes](https://github.com/KulnoorDhindsa/Learning-notes) | Personal notes on cybersecurity concepts — networking, Linux, Python, and more as I go. |
+
+## Repositories (Private)
+
+| Repo | What it is |
+|------|------------|
+| ctf-writeups| CTF challenge writeups — thought process, what failed, and what I learned. Currently has full OverTheWire Bandit (0–34). |
+| Learning-notes| Personal notes on cybersecurity concepts — networking, Linux, Python, and more as I go. |
+|programming-excercises| Small programs to improve concepts and build fundamentals|
 
 ---
 
