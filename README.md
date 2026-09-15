@@ -1,7 +1,7 @@
 # Kulnoor Dhindsa
 👋
 
-Cybersecurity student starting Computer Science - CySec undergrad in August 2026. Building fundamentals the hard way — hands-on before certifications, depth before breadth.
+Cybersecurity student doing Computer Science Engineering - Cybersecurity'30. Building fundamentals the hard way — hands-on before certifications, depth before breadth.
 
 ---
 
@@ -9,14 +9,18 @@ Cybersecurity student starting Computer Science - CySec undergrad in August 2026
 
 - Completed **OverTheWire Bandit levels 0–34** — full writeups with thought process, failed attempts, and lessons in `ctf-writeups`
 - Built a **home lab** — VM setup, network topology, and hands-on security experiments documented in `homelab-notes`
-- Started building personal notes on cybersecurity concepts — networking, Linux, Python — in `Learning-notes`
+- Started building personal notes on cybersecurity concepts — networking, Linux, cryptography and more cybersecurity concepts in `cybersecurity-notes` repo
+- More general topics learnt in `learning` repo
 
 ---
 
 ## What I'm Currently Doing
 
-- Learning **C** and **Python** — writing small programs daily to build low-level understanding
+- Learning **Python** — writing small programs daily to build low-level understanding
+- Learning **HTML**, **CSS**, **JAVA** and other *web-development* lang for better understanding of web security
 - Reading **Computer Networking: A Top-Down Approach** by Kurose & Ross (first 4–5 chapters) for networking fundamentals
+- Reading **Understanding Cryptography**, **Blackhat Python** for Python for security
+- In the process of building projects to showcase learning and concept learnt
 - Maintaining and expanding writeups as I work through more challenges
 - Doing **OverTheWire Natas levels 0–33** — writing full writeups, failed attempts, and correct methodologies in `ctf-writeups`
 
@@ -24,10 +28,10 @@ Cybersecurity student starting Computer Science - CySec undergrad in August 2026
 
 ## What's Next
 
-- **TryHackMe Pre-Security course** — structured path to solidify fundamentals before college
+- **TryHackMe Pre-Security course** — structured path to solidify fundamentals 
 - Finishing network security and other books on these topics
-- Starting CS undergrad coursework — **August 2026**
-- **picoCTF** (now **CyLab Security Academy**) beginner course
+- Continue reading books to have fundamental knowledge on networking, programming lang, etc
+- Finishing **Natas** before end of first year
 
 ---
 
@@ -36,15 +40,14 @@ Cybersecurity student starting Computer Science - CySec undergrad in August 2026
 | Repo | What it is |
 |------|------------|
 | [homelab-notes](https://github.com/KulnoorDhindsa/homelab-notes) | Documentation of my cybersecurity home lab — VM setup, network topology, hands-on experiments. |
-| [ctf-writeups](https://github.com/KulnoorDhindsa/ctf-writeups) | CTF challenge writeups — thought process, what failed, and what I learned. Currently has full OverTheWire Bandit (0–34). |
-| [Learning-notes](https://github.com/KulnoorDhindsa/Learning-notes) | Personal notes on cybersecurity concepts — networking, Linux, Python, and more as I go. |
+| [cybersecurity-notes](https://github.com/KulnoorDhindsa/Learning-notes) | Personal notes on cybersecurity concepts — networking, Linux, Python, and more as I go. |
+| [learning](https://github.com/KulnoorDhindsa/learning) | Notes on general non-cybersecurity related topics|
 
 ## Repositories (Private)
 
 | Repo | What it is |
 |------|------------|
-| programming-exercises | Small programs to improve concepts and build fundamentals |
-| learning-scratchpad | Rough notes on courses and college work |
+| [ctf-writeups](https://github.com/KulnoorDhindsa/ctf-writeups) | CTF challenge writeups — thought process, what failed, and what I learned. Currently has full OverTheWire Bandit (0–34), and is building OverTheWire Natas |
 
 ---
 
