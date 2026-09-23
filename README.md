@@ -20,7 +20,7 @@ Cybersecurity student doing Computer Science Engineering - Cybersecurity'30. Bui
 - Learning **HTML**, **CSS**, **JAVA** and other *web-development* lang for better understanding of web security
 - Reading **Computer Networking: A Top-Down Approach** by Kurose & Ross (first 4–5 chapters) for networking fundamentals
 - Reading **Understanding Cryptography**, **Blackhat Python** for Python for security
-- In the process of building projects to showcase learning and concept learnt
+- In the process of building projects to showcase learning and concepts learned
 - Maintaining and expanding writeups as I work through more challenges
 - Doing **OverTheWire Natas levels 0–33** — writing full writeups, failed attempts, and correct methodologies in `ctf-writeups`
 
@@ -30,8 +30,8 @@ Cybersecurity student doing Computer Science Engineering - Cybersecurity'30. Bui
 
 - **TryHackMe Pre-Security course** — structured path to solidify fundamentals 
 - Finishing network security and other books on these topics
-- Continue reading books to have fundamental knowledge on networking, programming lang, etc
-- Finishing **Natas** before end of first year
+- Continue reading books to have fundamental knowledge on networking, programming languages, etc
+- Finishing **Natas** before the end of the first year
 
 ---
 
@@ -47,7 +47,7 @@ Cybersecurity student doing Computer Science Engineering - Cybersecurity'30. Bui
 
 | Repo | What it is |
 |------|------------|
-| [ctf-writeups](https://github.com/KulnoorDhindsa/ctf-writeups) | CTF challenge writeups — thought process, what failed, and what I learned. Currently has full OverTheWire Bandit (0–34), and is building OverTheWire Natas |
+| [ctf-writeups](https://github.com/KulnoorDhindsa/ctf-writeups) | CTF challenge writeups — thought process, what failed, and what I learned. Currently has full OverTheWire Bandit (0–34) and is building OverTheWire Natas |
 
 ---
 
