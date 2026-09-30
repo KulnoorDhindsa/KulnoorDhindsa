@@ -23,6 +23,7 @@ Cybersecurity student doing Computer Science Engineering - Cybersecurity'30. Bui
 - In the process of building projects to showcase learning and concepts learned
 - Maintaining and expanding writeups as I work through more challenges
 - Doing **OverTheWire Natas levels 0–33** — writing full writeups, failed attempts, and correct methodologies in `ctf-writeups`
+- Exploring `CVEs` and attempting to start working on them
 
 ---
 
